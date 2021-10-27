@@ -1,1 +1,1 @@
-Just created new README.txt
+This readme file inside the html-ignments branch
