@@ -1,4 +1,4 @@
-//this is file is inside master branch
+//this is js-script branch
 switch(expression) {
     case x:
       // code block
