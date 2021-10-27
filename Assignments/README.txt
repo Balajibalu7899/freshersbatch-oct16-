@@ -1,2 +1,1 @@
-Just created new README.txt
-iam commiting this changes to   master branch
+This readme file inside the html-ignments branch
